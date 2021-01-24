@@ -41,7 +41,7 @@ class OUNoise:
         
  
  
-Project Overview
+# Project Overview:
 The Quadcopter or Quadrotor Helicopter is becoming an increasingly popular aircraft for both personal and professional use. 
 Its maneuverability lends itself to many applications, from last-mile delivery to cinematography, from acrobatics to search-and-rescue.
 
@@ -54,4 +54,3 @@ So, most commercial quadcopters try to simplify the flying controls by accepting
 The next step in this evolution is to enable quadcopters to autonomously achieve desired control behaviors such as takeoff and landing. You could design these controls with a classic approach (say, by implementing PID controllers). Or, you can use reinforcement learning to build agents that can learn these behaviors on their own. 
 This is what you are going to do in this project!
 
-Project Instructions
